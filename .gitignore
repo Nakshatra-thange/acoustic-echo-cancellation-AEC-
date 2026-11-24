@@ -2,3 +2,5 @@ data/
 .venv/
 __pycache__/
 models/
+.venv-fsmn/
+.venv-vad/

@@ -38,3 +38,33 @@ Test low, medium and high echo, different delays and different room responses.
 Part 7 — Create the final research report
 
 Graph results, compare systems, explain failures and document conclusions.
+
+
+
+Finish the 20-recording WebRTC experiment
+
+Establish a reliable baseline.
+
+
+
+Implement NKF-AEC
+
+Run the same recordings through a neural AEC system.
+
+
+
+Compare both systems
+
+Compare WER, echo removal, human speech preservation and processing latency.
+
+
+
+Investigate ByteAudio-18
+
+See whether we can reproduce its inference pipeline.
+
+
+
+Test realistic acoustic conditions
+
+Add room reverberation, different echo delays, changing echo levels and real recordings.
